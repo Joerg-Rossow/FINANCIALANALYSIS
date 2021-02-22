@@ -4,7 +4,7 @@ Welcome to our repository. You can find here examples to produce, process and an
 
 ## Challenges within corporate FP&A
 
-There are a number of daily challenges with financial planning, analysis and reporting. These often deal with media breaks, reconciling and the amount of financial data. Also often organizations try to solve new challenges with old approaches. 
+There are a number of daily challenges with financial planning, analysis and reporting. These often deal with media breaks, reconciling and the amount of financial data. Also often organizations try to solve new challenges with sometimes traditional approaches. 
 
 ## Objectives of this repository
 
